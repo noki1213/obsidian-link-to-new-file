@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-link-to-new-file",
+	"name": "Link to New File",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "リンク先のファイルが存在しなければ作成して開く。作成時にupプロパティを自動で追加する。",
+	"author": "maaya",
+	"isDesktopOnly": false
+}
